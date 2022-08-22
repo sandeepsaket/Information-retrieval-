@@ -1,0 +1,22 @@
+Query_id	query	
+Q1	JavaScript engines were originally used only in web browsers, but are now core componentsof some servers and a variety of
+Q2      C++ was designed with an orientation toward systems programming and embedded,resource-constrained software and large systems, with 
+Q3      Oracle (and others) highly recommend uninstalling outdated and unsupported versions of Java, due to unresolved security issues in 
+Q4      Measured service. Cloud systems automatically control and optimize resource use by leveraging a metering capability at some level 
+Q5      Addition, subtraction, and multiplication are the same, but the behavior of division differs. There are two types of divisions in 
+Q6      Conventionally, a modern computer consists of at least one processing element, typically a central processing unit (CPU) in the 
+Q7      C is an imperative procedural language. It was designed to be compiled to provide low-level access to memory and language 
+Q8      A blockchain is a decentralized, distributed, and oftentimes public, digital ledger consisting of records called blocks that is 
+Q9      The majority of software is written in high-level programming languages. They are easier and more efficient for programmers 
+Q10     PHP is a general-purpose scripting language geared towards web development. It was originally created by Danish-Canadian 
+Q11     For hardware functions such as input and output and memory allocation, the operating system acts as an intermediary between 
+Q12     he algorithm exists in many variants. Dijkstra's original algorithm found the shortest path between two given nodes,[6] but a more 
+Q13     For each type T and each non-negative integer constant n, there is an array type denoted [n]T; arrays of differing lengths are thus
+Q14     In the early-to-mid 1990s, most Websites were based on complete HTML pages. Each user action required a complete new page to be 
+Q15     age and Brin used the former's basic HTML programming skills to set up a simple search page for users, as they did not have a web p
+Q16     In the 2000s, the core industry centered on "AAA" games, leaving little room for riskier, experimental games. Coupled with the 
+Q17     One key application of a smart home is to provide assistance to elderly individuals and to those with disabilities. These home 
+Q18	Machine learning (ML) is the study of computer algorithms that can improve automatically through experience and by the use of data.
+Q19	Object-oriented features have been added to many previously existing languages, including Ada, BASIC, Fortran, Pascal, and COBOL. 
+Q20	Finally, it is worth noting that many real-world "regular expression" engines implement
+
